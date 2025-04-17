@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Luiz Henrique👋
 <hr>
-PT: Olá! Eu me chamo Luiz Henrique, Tenho 18 anos e moro em São José dos Campos, São Paulo e sou estudante de Ciência da Computação na UNIP.
+PT: Olá! Eu me chamo Luiz Henrique, Tenho 19 anos e moro em São José dos Campos, São Paulo e sou estudante de Ciência da Computação na UNIP.
 <hr>
-EN: Hi! My name is Luiz Henrique, I am 18 years old and I live in São José dos Campos, São Paulo, Brazil and I am a Computer Science student at UNIP.
+EN: Hi! My name is Luiz Henrique, I am 19 years old and I live in São José dos Campos, São Paulo, Brazil and I am a Computer Science student at UNIP.
 <hr>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenrique13_/)
