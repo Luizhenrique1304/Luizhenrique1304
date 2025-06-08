@@ -17,7 +17,7 @@ EN: Hi! My name is Luiz Henrique, I am 19 years old and I live in São José dos
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
+  <img align="center" alt="javascript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 </div>
 
 ## Ferramentas que eu uso
