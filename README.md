@@ -1,8 +1,8 @@
-### Olá! Eu sou o Luiz Henrique👋
+### Olá, Eu sou o Luiz Henrique👋
 <hr>
-PT: Olá! Eu me chamo Luiz Henrique, Tenho 19 anos e moro em São José dos Campos, São Paulo e sou estudante de Ciência da Computação na UNIP.
+PT: Olá, me chamo Luiz Henrique, tenho 19 anos e moro em São José dos Campos - São Paulo. Sou estudante de Ciência da Computação na UNIP, sou apaixonado por Tecnologia e estou em busca constante de aprendizado e evolução.
 <hr>
-EN: Hi! My name is Luiz Henrique, I am 19 years old and I live in São José dos Campos, São Paulo, Brazil and I am a Computer Science student at UNIP.
+EN: Hi! My name is Luiz Henrique, I'm 19 years old and I live in São José dos Campos, Brazil. I'm a Computer Science student at UNIP, passionate about technology and constantly looking to learn and grow.
 <hr>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenrique13_/)
@@ -12,22 +12,68 @@ EN: Hi! My name is Luiz Henrique, I am 19 years old and I live in São José dos
 ![Luiz Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizhenrique1304&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhenrique1304&layout=compact)
 
-## Tecnologias que eu uso
+## Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br>
+<br>
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-## Ferramentas que eu uso
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
-  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
+## Ferramentas
+<img
+    align="left"
+    alt="Visual Code"
+    title="Visual Code"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />      
+>
+<img 
+    align="left"
+    alt="Visual Code"
+    title="Visual Code"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+>
+<br>
+<br>
 <hr>
 A Tecnologia Move o Mundo - Steve Jobs
-
