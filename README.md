@@ -13,6 +13,7 @@ EN: Hi! My name is Luiz Henrique, I'm 19 years old and I live in São José dos 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenrique13_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-brito-de-oliveira-8b0b01344/)
+<a href = "mailto:luizhenriquebritodeoliveira02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Luiz Henrique GitHub stats](https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app/api?username=Luizhenrique1304&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&locale=en)
 ![Top Langs](https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app/api/top-langs/?username=Luizhenrique1304&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
