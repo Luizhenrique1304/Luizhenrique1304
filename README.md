@@ -16,6 +16,8 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-brito-de-oliveira-8b0b01344/)
 <a href = "mailto:luizhenriquebritodeoliveira02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+## 📊GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Luizhenrique1304&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Luizhenrique1304&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luizhenrique1304&layout=compact&theme=tokyonight)
