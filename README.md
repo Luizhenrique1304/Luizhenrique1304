@@ -4,12 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=print+(%22Ol%C3%A1%2C+Eu+sou+o+Luiz+Henrique%22)"/>
 </div>
 
-### Olá, Eu sou o Luiz Henrique👋
-<hr>
-PT: Olá, me chamo Luiz Henrique, tenho 19 anos e moro em São José dos Campos - São Paulo. Sou estudante de Ciência da Computação na UNIP, sou apaixonado por Tecnologia e estou em busca constante de aprendizado e evolução.
-<hr>
-EN: Hi! My name is Luiz Henrique, I'm 19 years old and I live in São José dos Campos, Brazil. I'm a Computer Science student at UNIP, passionate about technology and constantly looking to learn and grow.
-<hr>
+## Sobre Mim
+
+Tenho 19 anos, moro em São José dos Campos-SP e sou estudante de Ciência da Computação na UNIP de São José dos Campos, sou apaixonado por tecnologia, sou curioso, criativo e estou em busca constante de aprendizado e evolução. Atualmente estou estudando Java em Programação Orientada a Objetos e Banco de Dados. Tenho interesse por Desenvolvimento de Software e Desenvolvimento Web. 
+<br>
+Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo cozinhar.
+
+## Conecte-se comigo!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenrique13_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-brito-de-oliveira-8b0b01344/)
