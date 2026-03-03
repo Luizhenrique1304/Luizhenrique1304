@@ -10,7 +10,7 @@ Tenho 19 anos, moro em São José dos Campos-SP e sou estudante de Ciência da C
 <br>
 Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo cozinhar.
 
-## Conecte-se comigo!
+## Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizhenrique13_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-brito-de-oliveira-8b0b01344/)
