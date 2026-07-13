@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Tenho 19 anos, moro em São José dos Campos-SP e sou estudante de Ciência da Computação na UNIP de São José dos Campos, sou apaixonado por tecnologia, sou curioso, criativo e estou em busca constante de aprendizado e evolução. Atualmente estou estudando Java em Programação Orientada a Objetos e Banco de Dados. Tenho interesse por Desenvolvimento de Software e Desenvolvimento Web. 
+Tenho 20 anos, moro em São José dos Campos-SP e sou estudante de Ciência da Computação na UNIP de São José dos Campos, sou apaixonado por tecnologia, sou curioso, criativo e estou em busca constante de aprendizado e evolução. Atualmente estou estudando Java em Programação Orientada a Objetos e Banco de Dados. Tenho interesse por Desenvolvimento de Software e Desenvolvimento Web. 
 <br>
 Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo cozinhar.
 
