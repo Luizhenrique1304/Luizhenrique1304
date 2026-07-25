@@ -28,7 +28,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -36,7 +36,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -44,7 +44,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -52,7 +52,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -60,7 +60,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -68,7 +68,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left"
     alt="Java"
     title="Java"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -76,15 +76,23 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left"
     alt="MySQL"
     title="MySQL"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img
     align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img
+    align="left"
     alt="Oracle"
     title="Oracle"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />   
@@ -96,7 +104,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left"
     alt="Visual Code"
     title="Visual Code"
-    width="30px"
+    width="40px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />      
 >
@@ -104,7 +112,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left"
     alt="Visual Code"
     title="Visual Code"
-    width="30px"
+    width="40px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 >
@@ -112,7 +120,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left"
     alt="Eclipse"
     title="Eclipse"
-    width="30px"
+    width="40px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 >
@@ -120,7 +128,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     align="left"
     alt="Intellij"
     title="Intellij"
-    width="30px"
+    width="40px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 >
