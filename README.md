@@ -74,6 +74,14 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
 />
 <img
     align="left"
+    alt="Spring"
+    title="Spring"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+    align="left"
     alt="MySQL"
     title="MySQL"
     width="40px"
@@ -95,7 +103,7 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-/>   
+/>
 <br>
 <br>
 
@@ -131,6 +139,14 @@ Fora do mundo tech, gosto de filmes, séries, livros, videogames, esportes e amo
     width="40px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+>
+<img 
+    align="left"
+    alt="Insomnia"
+    title="Insomnia"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 >
 
 <br>
